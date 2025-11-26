@@ -10,8 +10,12 @@ I'm a Master's student in Computer Science at the University of Twente, speciali
 ![](https://nirzak-streak-stats.vercel.app/?user=onatakca&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onatakca&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<div align="center">
+  <h3><i>“It's easier to invent the future than to predict it.”</i></h3>
+  <b>— Alan Kay</b>
+</div>
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=onatakca&icon=0&color=0)](https://visitcount.itsvg.in)
